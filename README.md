@@ -1,6 +1,6 @@
 # RxJS Using Events
 
-RxJS application using events in a Webpack environment
+RxJS application using events with Webpack environment
 
 ### Installation
 
