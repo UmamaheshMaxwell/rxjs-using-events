@@ -1,6 +1,6 @@
 # RxJS Boiler
 
-Boilerplate for building RxJS applications in a Webpack environment
+RxJS application using events in a Webpack environment
 
 ### Installation
 
