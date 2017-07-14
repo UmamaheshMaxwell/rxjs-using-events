@@ -1,4 +1,4 @@
-# RxJS Boiler
+# RxJS Using Events
 
 RxJS application using events in a Webpack environment
 
